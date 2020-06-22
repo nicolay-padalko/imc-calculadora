@@ -1,0 +1,4 @@
+#Sun Jun 21 22:19:54 BRT 2020
+base.0=D\:\\DES_Kotlin\\imc-calculadora\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
