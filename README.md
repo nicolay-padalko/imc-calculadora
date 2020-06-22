@@ -1,3 +1,3 @@
 Estudo de APP -Flutter
 
-![tela1](/images/tela.jpg)
+![tela1](/tela.jpg)
