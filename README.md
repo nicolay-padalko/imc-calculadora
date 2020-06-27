@@ -1,4 +1,4 @@
 Estudo de APP
 Flutter
 
-![tela1](tela.png)
+![tela1](tela.jpg)
